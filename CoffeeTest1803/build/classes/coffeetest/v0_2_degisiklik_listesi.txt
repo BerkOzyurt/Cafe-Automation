@@ -1,0 +1,13 @@
+v0.2 Arayüz Güncelleme Listesi
+-------------------------------
+# YENİ #
+* Yönetim ekranı tamamlandı.
+* Ürün Yönetim ekranı tamamlandı.
+* Ürün ekle, ürün düzenle, ürün sil ve kategori ekranları yapıldı. İçleri boş. Sizden gelen verilere göre doldururum ya da siz oraya buraya textbox atıp arkada kod pratiği yapabilirsiniz. Ben sonra düzenlerim yer ve şekillerini.
+
+# DÜZELTME #
+* Tüm arayüzlerin arkaplan ve fontları değiştirildi.
+* Giriş ekranında "GirisHata" isimli bir label oluşturuldu. Renk ve font ayarı yapıldı. Yanlış kullanıcı girişlerinde uyarılar burda gösterilebilir.
+* Giriş ekranında ve hakkında kısmında ufak değişiklikler yapıldı. 
+* Masalar ve Sipariş ekranındaki arkaplanlar düzeltildi.
+* Her ekranda çalışır durumda geri ve kapat butonu oluşturuldu. (Giriş ekranı dahil Öskan. Ly <3)
